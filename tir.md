@@ -10,5 +10,8 @@ Devbox
 autouseの使い方がいまいちわからないが、あまり使用しないか❔  
 
 動かして学ぶ! Python FastAPI開発入門 P93~p118
-Open APIとは❔
+Open APIとは❔  
+
+作って学ぶNext.js/React Webサイト構築 P209~P224  
+micro cmsからのデータ取得
 
