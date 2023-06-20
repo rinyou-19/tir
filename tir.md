@@ -15,3 +15,7 @@ Open APIとは❔
 作って学ぶNext.js/React Webサイト構築 P209~P224  
 micro cmsからのデータ取得
 
+## 2023/06/20  
+作って学ぶNext.js/React Webサイト構築 P225~P231  
+投稿記事の表示
+
