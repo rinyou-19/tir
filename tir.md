@@ -26,5 +26,7 @@ micro cmsからのデータ取得
 良いコード/悪いコードで学ぶ設計入門  
 
 software design7月号  
-gRPCはさらっと、svelteは明日からちゃんと読む
+gRPCはさらっと、svelteは明日からちゃんと読む  
+
+作って学ぶNext.js/React Webサイト構築 P232~P239  
 
