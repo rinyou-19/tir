@@ -30,3 +30,5 @@ gRPCはさらっと、svelteは明日からちゃんと読む
 
 作って学ぶNext.js/React Webサイト構築 P232~P239  
 
+動かして学ぶ! Python FastAPI開発入門 P119~p123
+
