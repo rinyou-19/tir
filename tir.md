@@ -32,3 +32,8 @@ gRPCはさらっと、svelteは明日からちゃんと読む
 
 動かして学ぶ! Python FastAPI開発入門 P119~p123
 
+## 2023/06/29  
+テスト駆動Python[第2版] P65〜P73  
+
+作って学ぶNext.js/React Webサイト構築 P240~P251  
+
