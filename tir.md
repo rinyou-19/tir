@@ -35,5 +35,10 @@ gRPCはさらっと、svelteは明日からちゃんと読む
 ## 2023/06/29  
 テスト駆動Python[第2版] P65〜P73  
 
-作って学ぶNext.js/React Webサイト構築 P240~P251  
+作って学ぶNext.js/React Webサイト構築 P240~P251 
+
+## 2023/06/29  
+テスト駆動Python[第2版] P74〜P80S  
+
+作って学ぶNext.js/React Webサイト構築 P240~P251 
 
