@@ -42,5 +42,12 @@ gRPCはさらっと、svelteは明日からちゃんと読む
 
 作って学ぶNext.js/React Webサイト構築 P252~P260  
 
-動かして学ぶ! Python FastAPI開発入門 P130~p139
+動かして学ぶ! Python FastAPI開発入門 P130~p139  
+
+## 2023/07/14
+AZ-900 テキスト&問題集
+
+Visual C#2022パーフェクトマスター  
+
+Azure定番システム設計実装運用ガイド
 
